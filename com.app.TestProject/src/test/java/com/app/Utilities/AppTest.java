@@ -14,5 +14,6 @@ public class AppTest
     public void verifyTest()
     {
         System.out.println("Selenium Test");
+        System.out.println("Test Github");
     }
 }
